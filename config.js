@@ -1,0 +1,23 @@
+export const nameBand = 'SEBASTIAN PALMA';
+export const nameSongs = [
+	"PUERTA DEL AMOR", /*1*/
+	"EXPERIENCIA RELIGIOSA", /*2*/
+	"SAY YOU WILL", /*3*/
+	"PART-TIME LOVER", /*4*/
+	"DON'T LOOSE MY NUMBER", /*5*/
+	"SIDE TO SIDE", /*6*/
+	"HORDES OF CHAOS", /*7*/
+	"MERCYFUL FATE", /*8*/
+	"PAINKILLER", /*9*/
+	"THUNDERSTEEL", /*10*/
+	"NEMESIS", /*11*/
+	"SONO CHI NO SADAME", /*12*/
+	"GASOLINE", /*13*/
+	"MUSIC OF THE NIGHT", /*14*/
+	"EPIC JAM", /*15*/
+	"EL PODER ES NUESTRO", /*16*/
+	"CORAZÓN PARTÍO", /*17*/
+	"SI TE ENAMORAS DE MI", /*18*/
+	"YA ME ENTERÉ", /*19*/
+	"COLECCIONISTA DE CANCIONES", /*20*/
+]
